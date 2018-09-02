@@ -1,4 +1,4 @@
-package com.company;
+package com.llx278.leetcode.easy;
 
 import java.util.ArrayList;
 import java.util.List;

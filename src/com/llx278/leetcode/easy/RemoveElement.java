@@ -1,4 +1,4 @@
-package com.company;
+package com.llx278.leetcode.easy;
 
 public class RemoveElement {
 
