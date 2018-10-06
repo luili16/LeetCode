@@ -22,12 +22,13 @@ package com.llx278.leetcode.easy;
 public class SqrtX {
 
     public int sqrt(int x) {
-        return -1;
+        return (int) Math.sqrt(x);
     }
 
     public static void main(String[] args) {
 
-
+        int i = new SqrtX().sqrt(8);
+        System.out.println(i);
 
     }
 
