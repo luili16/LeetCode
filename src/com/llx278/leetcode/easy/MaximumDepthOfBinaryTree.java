@@ -1,6 +1,6 @@
 package com.llx278.leetcode.easy;
 
-import java.util.Collections;
+import com.llx278.leetcode.datastruct.TreeNode;
 
 /**
  * 给定一个二叉树，找出其最大深度。

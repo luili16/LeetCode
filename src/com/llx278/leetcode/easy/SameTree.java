@@ -1,5 +1,7 @@
 package com.llx278.leetcode.easy;
 
+import com.llx278.leetcode.datastruct.TreeNode;
+
 public class SameTree {
 
     public static class BooleanWrapper {

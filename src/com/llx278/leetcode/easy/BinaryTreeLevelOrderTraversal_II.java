@@ -1,5 +1,7 @@
 package com.llx278.leetcode.easy;
 
+import com.llx278.leetcode.datastruct.TreeNode;
+
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
