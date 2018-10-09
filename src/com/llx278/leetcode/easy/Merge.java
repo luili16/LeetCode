@@ -39,6 +39,8 @@ public class Merge {
         int[] nums2 = new int[] {1};
 
         new Merge().merge(nums1,0,nums2,1);
+        int a = (int) Math.ceil(2.5);
+        System.out.println(a);
         System.out.println(Arrays.toString(nums1));
     }
 }
