@@ -1,5 +1,9 @@
 package com.llx278.leetcode.easy;
 
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.Set;
+
 public class ClimbingStairs {
     //Integer count = 0;
 
@@ -64,8 +68,13 @@ public class ClimbingStairs {
         }
     }
 
+
+
     public static void main(String[] args) {
-        int n = new ClimbingStairs().climbStairs(44);
-        System.out.println(n);
+        //int n = new ClimbingStairs().climbStairs(44);
+        String s = "hello";
+        String t = "world";
+        s = t + s;
+        System.out.println(s);
     }
 }
