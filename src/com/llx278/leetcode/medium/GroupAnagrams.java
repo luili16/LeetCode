@@ -82,5 +82,8 @@ public class GroupAnagrams {
         //String[] strs = new String[]{"eat","tea","tan","ate","nat","bat"};
         List<List<String>> result = new GroupAnagrams().groupAnagrams(strs);
         System.out.println(result);
+
+        int a = -100 % 2;
+        System.out.println(a);
     }
 }
